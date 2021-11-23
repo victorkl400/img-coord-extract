@@ -1,0 +1,14 @@
+{
+  "name": "img-coord-extract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Emanuel",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.29.3"
+  }
+}
